@@ -351,3 +351,6 @@ MigrationBackup/
 
 # Rider structure files
 *.[Ii]dea/
+
+# VisualStudio Code stucture files
+*.vscode/
