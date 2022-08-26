@@ -1,4 +1,4 @@
-# dojo-dotnet-template
+# Dojo template for .NET 6 using Docker
 A simple template to do Dojo practices with .Net 6 sdk.
 
 ## Using it
